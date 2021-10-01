@@ -23,7 +23,7 @@ HOW TO USE:
 
 apt-get -y install python python-requests python-mysqldb
 
-wget "https://raw.githubusercontent.com/xtreamui/XCFILES/master/check_hacks.py" -O /tmp/check_hacks.py
+wget "https://raw.githubusercontent.com/adilem/XCFILES/master/check_hacks.py" -O /tmp/check_hacks.py
 
 python /tmp/check_hacks.py
 
